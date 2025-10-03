@@ -1,5 +1,5 @@
 # Estevan Zimermann
-## Web Developer | Tech Enthusiast
+> Web Developer | Tech Enthusiast
 
 <h1>Olá, tudo bem ?</h1>
 
