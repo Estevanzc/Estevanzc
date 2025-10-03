@@ -1,11 +1,28 @@
+# Estevan Zimermann
+## Web Developer | Tech Enthusiast
+
+![Profile Banner](https://images.unsplash.com/photo-1610296669228-602fa827fc1f?q=80&w=1075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <h1>Olá, tudo bem ?</h1>
-<h3>Sou um apreciador de programação</h3>
 
 - Atualmente, estou trabalhando em um projeto em grupo [Organyc](https://github.com/Estevanzc/organyc)
 
 - Estou compreendendo conceitos sobre **ReactJs e NodeJs**
 
 - Contate-me **estevan.zimermann@gmail.com**
+
+---
+
+### Overview
+Passionate web developer with expertise in PHP, JavaScript, HTML, and CSS. Constantly exploring new technologies and contributing to collaborative projects on GitHub.
+
+### Skills
+- Frontend Development
+- Backend Development
+- Responsive Design
+- Problem-Solving
+
+---
 
 ###
 
@@ -63,6 +80,8 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estevanzc)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
