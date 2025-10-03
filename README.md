@@ -1,13 +1,11 @@
-<h1 align="center">Olá, eu sou Estevan</h1>
-<h3 align="center">Apreciador de programação</h3>
+<h1>Olá, tudo bem ?</h1>
+<h3>Sou um apreciador de programação</h3>
 
 - Atualmente, estou trabalhando em um projeto em grupo [Organyc](https://github.com/Estevanzc/organyc)
 
 - Estou compreendendo conceitos sobre **ReactJs e NodeJs**
 
 - Contate-me **estevan.zimermann@gmail.com**
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
