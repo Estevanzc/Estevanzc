@@ -3,7 +3,7 @@
 
 <h1>Olá, tudo bem ?</h1>
 
-- Atualmente, estou trabalhando em um projeto em grupo [Wisely](https://github.com/Estevanzc/blog_server)
+- Atualmente, estou trabalhando no projeto [Wisely](https://github.com/Estevanzc/blog_server)
 
 - Estou compreendendo conceitos sobre **ReactJs e NodeJs**
 
